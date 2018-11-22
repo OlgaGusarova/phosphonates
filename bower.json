@@ -1,0 +1,21 @@
+{
+  "name": "phosphonates",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Gusarova Olga"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}
